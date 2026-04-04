@@ -196,7 +196,7 @@ export class FloorPlanShapeUtil extends ShapeUtil<any> {
             fill="#1e293b"
             fontFamily="system-ui"
           >
-            Betonvloer Tuinhuis — {metersW} × {metersH}m
+            Betonvloer — {metersW} × {metersH}m
           </text>
         </svg>
       </HTMLContainer>

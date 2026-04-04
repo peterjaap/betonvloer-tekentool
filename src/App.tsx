@@ -134,7 +134,7 @@ export default function App() {
     const url = URL.createObjectURL(blob)
     const a = document.createElement('a')
     a.href = url
-    a.download = `tuinhuis-plattegrond-${new Date().toISOString().slice(0, 10)}.json`
+    a.download = `betonvloer-plattegrond-${new Date().toISOString().slice(0, 10)}.json`
     a.click()
     URL.revokeObjectURL(url)
   }, [])
@@ -186,7 +186,7 @@ export default function App() {
         <Tldraw
           shapeUtils={customShapeUtils}
           onMount={handleMount}
-          persistenceKey="tekentool-tuinhuis"
+          persistenceKey="tekentool-betonvloer"
         />
       </div>
     </div>

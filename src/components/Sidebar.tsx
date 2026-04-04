@@ -16,7 +16,7 @@ export function Sidebar({ showLabels, onToggleLabels, onItemClick, onExport, onI
 
   return (
     <div className="sidebar">
-      <h2>Tekentool Tuinhuis</h2>
+      <h2>Tekentool Betonvloer</h2>
       <div className="sidebar-instructions">
         <strong>Klik</strong> op een component om het in het midden te plaatsen,
         of <strong>sleep</strong> het naar de gewenste plek op het canvas.

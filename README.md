@@ -1,8 +1,8 @@
-# Tekentool Tuinhuis
+# Tekentool Betonvloer
 
-![Tekentool Tuinhuis screenshot](https://github.com/user-attachments/assets/e43b9cc2-fd3c-4e56-93c9-04e022784769)
+![Tekentool Betonvloer screenshot](https://github.com/user-attachments/assets/e43b9cc2-fd3c-4e56-93c9-04e022784769)
 
-A floor plan drawing tool for planning plumbing, electrical, water, and structural components in a garden house (tuinhuis). Built with [tldraw](https://tldraw.dev/) as an interactive canvas.
+A floor plan drawing tool for planning plumbing, electrical, water, and structural components in a concrete floor (betonvloer). Built with [tldraw](https://tldraw.dev/) as an interactive canvas.
 
 ## Features
 
