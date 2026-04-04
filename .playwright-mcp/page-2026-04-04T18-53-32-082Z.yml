@@ -1,0 +1,261 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - heading "Tekentool Tuinhuis" [level=2] [ref=e5]
+    - generic [ref=e6]:
+      - strong [ref=e7]: Klik
+      - text: op een component om het in het midden te plaatsen, of
+      - strong [ref=e8]: sleep
+      - text: het naar de gewenste plek op het canvas. Gebruik de tldraw tools (lijn, pijl) om leidingen te tekenen. Canvas = 14 × 4 meter.
+    - generic [ref=e9]:
+      - heading "Rioolafvoer" [level=3] [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e12]: 🕳️
+        - generic [ref=e13]:
+          - generic [ref=e14]: Rioolput
+          - generic [ref=e15]: Inspectie/aansluitput
+      - generic [ref=e16]:
+        - generic [ref=e17]: ↪️
+        - generic [ref=e18]:
+          - generic [ref=e19]: Bocht 90°
+          - generic [ref=e20]: Riool bocht
+      - generic [ref=e21]:
+        - generic [ref=e22]: ⊤
+        - generic [ref=e23]:
+          - generic [ref=e24]: T-stuk
+          - generic [ref=e25]: Riool T-aansluiting
+      - generic [ref=e26]:
+        - generic [ref=e27]: ⊙
+        - generic [ref=e28]:
+          - generic [ref=e29]: Afvoeraansluiting
+          - generic [ref=e30]: Aansluiting voor afvoer
+      - generic [ref=e31]:
+        - generic [ref=e32]: 🚽
+        - generic [ref=e33]:
+          - generic [ref=e34]: WC afvoer
+          - generic [ref=e35]: Toilet aansluiting Ø110
+      - generic [ref=e36]:
+        - generic [ref=e37]: 🚿
+        - generic [ref=e38]:
+          - generic [ref=e39]: Douche afvoer
+          - generic [ref=e40]: Doucheput Ø50
+    - generic [ref=e41]:
+      - heading "Hemelwaterafvoer" [level=3] [ref=e42]
+      - generic [ref=e43]:
+        - generic [ref=e44]: 🌧️
+        - generic [ref=e45]:
+          - generic [ref=e46]: Hemelwaterput
+          - generic [ref=e47]: Opvangput hemelwater
+      - generic [ref=e48]:
+        - generic [ref=e49]: ⬇️
+        - generic [ref=e50]:
+          - generic [ref=e51]: Regenpijp
+          - generic [ref=e52]: Aansluiting regenpijp
+      - generic [ref=e53]:
+        - generic [ref=e54]: ▦
+        - generic [ref=e55]:
+          - generic [ref=e56]: Kolk
+          - generic [ref=e57]: Straatkolk/afvoerkolk
+    - generic [ref=e58]:
+      - heading "Elektra" [level=3] [ref=e59]
+      - generic [ref=e60]:
+        - generic [ref=e61]: ⚡
+        - generic [ref=e62]:
+          - generic [ref=e63]: Centraaldoos
+          - generic [ref=e64]: Verdeeldoos elektra
+      - generic [ref=e65]:
+        - generic [ref=e66]: 🔌
+        - generic [ref=e67]:
+          - generic [ref=e68]: Wandcontactdoos
+          - generic [ref=e69]: Stopcontact
+      - generic [ref=e70]:
+        - generic [ref=e71]: 🔘
+        - generic [ref=e72]:
+          - generic [ref=e73]: Schakelaar
+          - generic [ref=e74]: Lichtschakelaar
+      - generic [ref=e75]:
+        - generic [ref=e76]: 🗄️
+        - generic [ref=e77]:
+          - generic [ref=e78]: Groepenkast
+          - generic [ref=e79]: Meterkast/groepenkast
+      - generic [ref=e80]:
+        - generic [ref=e81]: 💡
+        - generic [ref=e82]:
+          - generic [ref=e83]: Lichtpunt
+          - generic [ref=e84]: Plafond/wandlamp
+    - generic [ref=e85]:
+      - heading "Wateraanvoer" [level=3] [ref=e86]
+      - generic [ref=e87]:
+        - generic [ref=e88]: 🚰
+        - generic [ref=e89]:
+          - generic [ref=e90]: Wateraansluiting
+          - generic [ref=e91]: Hoofdaansluiting water
+      - generic [ref=e92]:
+        - generic [ref=e93]: 🔵
+        - generic [ref=e94]:
+          - generic [ref=e95]: Kraan
+          - generic [ref=e96]: Koud/warm water kraan
+      - generic [ref=e97]:
+        - generic [ref=e98]: ♨️
+        - generic [ref=e99]:
+          - generic [ref=e100]: Boiler
+          - generic [ref=e101]: Warmwaterboiler
+      - generic [ref=e102]:
+        - generic [ref=e103]: 📊
+        - generic [ref=e104]:
+          - generic [ref=e105]: Watermeter
+          - generic [ref=e106]: Watermeter
+    - generic [ref=e107]:
+      - heading "Overig" [level=3] [ref=e108]
+      - generic [ref=e109]:
+        - generic [ref=e110]: ▬
+        - generic [ref=e111]:
+          - generic [ref=e112]: Muur/wand
+          - generic [ref=e113]: Binnenmuur
+      - generic [ref=e114]:
+        - generic [ref=e115]: 🚪
+        - generic [ref=e116]:
+          - generic [ref=e117]: Deur
+          - generic [ref=e118]: Deuropening
+      - generic [ref=e119]:
+        - generic [ref=e120]: 🪟
+        - generic [ref=e121]:
+          - generic [ref=e122]: Raam
+          - generic [ref=e123]: Raam/venster
+    - 'button "Labels: Aan" [ref=e125] [cursor=pointer]'
+  - application "tldraw" [ref=e127]:
+    - generic [ref=e128]:
+      - img
+      - img [ref=e133]:
+        - generic [ref=e136]: 1m
+        - generic [ref=e137]: 2m
+        - generic [ref=e138]: 3m
+        - generic [ref=e139]: 4m
+        - generic [ref=e140]: 5m
+        - generic [ref=e141]: 6m
+        - generic [ref=e142]: 7m
+        - generic [ref=e143]: 8m
+        - generic [ref=e144]: 9m
+        - generic [ref=e145]: 10m
+        - generic [ref=e146]: 11m
+        - generic [ref=e147]: 12m
+        - generic [ref=e148]: 13m
+        - generic [ref=e149]: 1m
+        - generic [ref=e150]: 2m
+        - generic [ref=e151]: 3m
+        - generic [ref=e152]: ← 14 meter →
+        - generic [ref=e153]: ← 4 meter →
+        - generic [ref=e154]: Betonvloer Tuinhuis — 14 × 4m
+    - generic:
+      - button "Move focus to canvas" [ref=e155] [cursor=pointer]
+      - generic:
+        - generic:
+          - navigation:
+            - generic:
+              - button "Menu" [ref=e156] [cursor=pointer]:
+                - img [ref=e157]
+              - button "Page 1" [ref=e158] [cursor=pointer]:
+                - generic [ref=e159]: Page 1
+                - img [ref=e160]
+              - toolbar "Actions":
+                - button "Undo — Ctrl + Z" [disabled] [ref=e161]:
+                  - img [ref=e162]
+                - button "Redo — Ctrl + ⇧ + Z" [disabled] [ref=e163]:
+                  - img [ref=e164]
+                - button "Delete — ⌫" [disabled] [ref=e165]:
+                  - img [ref=e166]
+                - button "Duplicate — Ctrl + D" [disabled] [ref=e167]:
+                  - img [ref=e168]
+                - button "Actions" [ref=e169] [cursor=pointer]:
+                  - img [ref=e170]
+        - generic [ref=e171]:
+          - generic [ref=e172]:
+            - toolbar "Color" [ref=e173]:
+              - radiogroup [ref=e174]:
+                - radio "Color — Black (selected)" [checked] [ref=e175] [cursor=pointer]:
+                  - img [ref=e176]
+                - radio "Color — Grey" [ref=e177] [cursor=pointer]:
+                  - img [ref=e178]
+                - radio "Color — Light violet" [ref=e179] [cursor=pointer]:
+                  - img [ref=e180]
+                - radio "Color — Violet" [ref=e181] [cursor=pointer]:
+                  - img [ref=e182]
+                - radio "Color — Blue" [ref=e183] [cursor=pointer]:
+                  - img [ref=e184]
+                - radio "Color — Light blue" [ref=e185] [cursor=pointer]:
+                  - img [ref=e186]
+                - radio "Color — Yellow" [ref=e187] [cursor=pointer]:
+                  - img [ref=e188]
+                - radio "Color — Orange" [ref=e189] [cursor=pointer]:
+                  - img [ref=e190]
+                - radio "Color — Green" [ref=e191] [cursor=pointer]:
+                  - img [ref=e192]
+                - radio "Color — Light green" [ref=e193] [cursor=pointer]:
+                  - img [ref=e194]
+                - radio "Color — Light red" [ref=e195] [cursor=pointer]:
+                  - img [ref=e196]
+                - radio "Color — Red" [ref=e197] [cursor=pointer]:
+                  - img [ref=e198]
+            - slider "Opacity — 100%" [ref=e204]
+          - generic [ref=e205]:
+            - toolbar "Fill" [ref=e206]:
+              - radiogroup [ref=e207]:
+                - radio "Fill — None (selected)" [checked] [ref=e208] [cursor=pointer]:
+                  - img [ref=e209]
+                - radio "Fill — Semi" [ref=e210] [cursor=pointer]:
+                  - img [ref=e211]
+                - radio "Fill — Solid" [ref=e212] [cursor=pointer]:
+                  - img [ref=e213]
+              - button "Fill — None" [ref=e215] [cursor=pointer]:
+                - img [ref=e216]
+            - toolbar "Dash" [ref=e217]:
+              - radiogroup [ref=e218]:
+                - radio "Dash — Draw (selected)" [checked] [ref=e219] [cursor=pointer]:
+                  - img [ref=e220]
+                - radio "Dash — Dashed" [ref=e221] [cursor=pointer]:
+                  - img [ref=e222]
+                - radio "Dash — Dotted" [ref=e223] [cursor=pointer]:
+                  - img [ref=e224]
+                - radio "Dash — Solid" [ref=e225] [cursor=pointer]:
+                  - img [ref=e226]
+            - toolbar "Size" [ref=e227]:
+              - radiogroup [ref=e228]:
+                - radio "Size — Small" [ref=e229] [cursor=pointer]:
+                  - img [ref=e230]
+                - radio "Size — Medium (selected)" [checked] [ref=e231] [cursor=pointer]:
+                  - img [ref=e232]
+                - radio "Size — Large" [ref=e233] [cursor=pointer]:
+                  - img [ref=e234]
+                - radio "Size — Extra large" [ref=e235] [cursor=pointer]:
+                  - img [ref=e236]
+      - generic:
+        - generic:
+          - toolbar "Navigation" [ref=e238]:
+            - button "Zoom — 100%" [ref=e239] [cursor=pointer]:
+              - generic [ref=e240]: 100%
+            - button "Toggle minimap" [ref=e241] [cursor=pointer]:
+              - img [ref=e242]
+          - toolbar "Tools" [ref=e243]:
+            - generic [ref=e244]:
+              - button "Select — V" [pressed] [ref=e245] [cursor=pointer]:
+                - img [ref=e246]
+              - button "Hand — H" [ref=e247] [cursor=pointer]:
+                - img [ref=e248]
+              - button "Draw — D" [ref=e249] [cursor=pointer]:
+                - img [ref=e250]
+              - button "Eraser — E" [ref=e251] [cursor=pointer]:
+                - img [ref=e252]
+              - button "Arrow — A" [ref=e253] [cursor=pointer]:
+                - img [ref=e254]
+              - button "Text — T" [ref=e255] [cursor=pointer]:
+                - img [ref=e256]
+              - button "Note — N" [ref=e257] [cursor=pointer]:
+                - img [ref=e258]
+              - button "Media — Ctrl + U" [ref=e259] [cursor=pointer]:
+                - img [ref=e260]
+              - button "Rectangle — R" [ref=e261] [cursor=pointer]:
+                - img [ref=e262]
+            - button "More" [ref=e264] [cursor=pointer]:
+              - img [ref=e265]
+      - region "Notifications (F8)":
+        - list
+    - button "Get a license for production" [ref=e267] [cursor=pointer]
