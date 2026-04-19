@@ -21,7 +21,7 @@ export function Sidebar({ showLabels, onToggleLabels, onItemClick, onExport, onI
         <strong>Klik</strong> op een component om het in het midden te plaatsen,
         of <strong>sleep</strong> het naar de gewenste plek op het canvas.
         Gebruik de tldraw tools (lijn, pijl) om leidingen te tekenen.
-        Canvas = 14 × 4 meter.
+        Canvas = 12 × 3 meter.
       </div>
 
       {CATEGORIES.map(cat => {

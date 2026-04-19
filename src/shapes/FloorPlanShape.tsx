@@ -19,8 +19,8 @@ export class FloorPlanShapeUtil extends ShapeUtil<any> {
 
   getDefaultProps() {
     return {
-      w: 14 * SCALE + PAD * 2,
-      h: 4 * SCALE + PAD * 2,
+      w: 12 * SCALE + PAD * 2,
+      h: 3 * SCALE + PAD * 2,
     }
   }
 

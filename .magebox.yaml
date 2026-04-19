@@ -1,0 +1,5 @@
+name: tekentool
+type: laravel
+domains:
+  - host: tekentool.localhost
+php: "8.4"

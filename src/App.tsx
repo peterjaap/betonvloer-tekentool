@@ -88,8 +88,8 @@ export default function App() {
         y: 0,
         isLocked: true,
         props: {
-          w: 14 * SCALE + 80,
-          h: 4 * SCALE + 80,
+          w: 12 * SCALE + 80,
+          h: 3 * SCALE + 80,
         },
       })
     }
